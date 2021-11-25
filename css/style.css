@@ -1,0 +1,61 @@
+#body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+#card {
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 30px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    width: 550px;
+}
+
+#nft-img {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#round-img {
+    border-radius: 10px;
+    height: 450px;
+}
+
+#nft-name {
+    color: aliceblue;
+    font-weight: 600;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+#nft-preco {
+    text-align: left;
+    padding-left: 30px;
+    font-size: 14pt;
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+
+#time-left {
+    text-align: right;
+    font-weight: 400;
+    font-size: 14pt;
+    padding-right: 30px;
+    color: hsl(215, 51%, 70%);
+}
+
+#p {
+    font-weight: 300;
+    font-size: 20pt;
+    padding-left: 50px;
+    color: hsl(215, 51%, 70%);
+}
+
+#creator {
+    padding-left: 30px;
+    font-size: 16pt;
+    color: hsl(215, 51%, 70%);
+}
+
+#line {
+    color: hsl(215, 51%, 70%);
+}
