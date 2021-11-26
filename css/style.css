@@ -72,6 +72,10 @@
     align-items: flex-start; */
     }
     
+    .svg {
+        align-self: baseline;
+    }
+    
     #price {
         /* background-color: bisque; */
         margin-left: 30px;
